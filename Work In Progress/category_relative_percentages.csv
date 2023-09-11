@@ -1,0 +1,85 @@
+mobility_type,PG,PL,PN,avg_magnitude_PG,avg_magnitude_PN,avg_magnitude_PL
+grocery_and_pharmacy_percent_change_from_baseline,34.61538461538461,50.0,15.384615384615385,18.174999998166665,,-16.379287673166665
+parks_percent_change_from_baseline,86.53846153846155,7.6923076923076925,5.769230769230769,134.6804440851724,35.63512043,-63.91428571
+residential_percent_change_from_baseline,100.0,0.0,0.0,14.577675775463415,"state                 NaN
+mobility_type         NaN
+x_time                NaN
+x_date                NaN
+y_ridership_change    NaN
+phase                 NaN
+category              NaN
+t4_1pct_5days         NaN
+t4_1pct_7days         NaN
+t4_1pct_14days        NaN
+t4_5pct_5days         NaN
+t4_5pct_7days         NaN
+t4_5pct_14days        NaN
+dtype: object","state                 NaN
+mobility_type         NaN
+x_time                NaN
+x_date                NaN
+y_ridership_change    NaN
+phase                 NaN
+category              NaN
+t4_1pct_5days         NaN
+t4_1pct_7days         NaN
+t4_1pct_14days        NaN
+t4_5pct_5days         NaN
+t4_5pct_7days         NaN
+t4_5pct_14days        NaN
+dtype: object"
+retail_and_recreation_percent_change_from_baseline,0.0,100.0,0.0,"state                 NaN
+mobility_type         NaN
+x_time                NaN
+x_date                NaN
+y_ridership_change    NaN
+phase                 NaN
+category              NaN
+t4_1pct_5days         NaN
+t4_1pct_7days         NaN
+t4_1pct_14days        NaN
+t4_5pct_5days         NaN
+t4_5pct_7days         NaN
+t4_5pct_14days        NaN
+dtype: object","state                 NaN
+mobility_type         NaN
+x_time                NaN
+x_date                NaN
+y_ridership_change    NaN
+phase                 NaN
+category              NaN
+t4_1pct_5days         NaN
+t4_1pct_7days         NaN
+t4_1pct_14days        NaN
+t4_5pct_5days         NaN
+t4_5pct_7days         NaN
+t4_5pct_14days        NaN
+dtype: object",-32.39029060405263
+transit_stations_percent_change_from_baseline,1.9230769230769231,94.23076923076923,3.8461538461538463,30.11904762,,-32.702151002068966
+workplaces_percent_change_from_baseline,0.0,100.0,0.0,"state                 NaN
+mobility_type         NaN
+x_time                NaN
+x_date                NaN
+y_ridership_change    NaN
+phase                 NaN
+category              NaN
+t4_1pct_5days         NaN
+t4_1pct_7days         NaN
+t4_1pct_14days        NaN
+t4_5pct_5days         NaN
+t4_5pct_7days         NaN
+t4_5pct_14days        NaN
+dtype: object","state                 NaN
+mobility_type         NaN
+x_time                NaN
+x_date                NaN
+y_ridership_change    NaN
+phase                 NaN
+category              NaN
+t4_1pct_5days         NaN
+t4_1pct_7days         NaN
+t4_1pct_14days        NaN
+t4_5pct_5days         NaN
+t4_5pct_7days         NaN
+t4_5pct_14days        NaN
+dtype: object",-38.366977124117646
